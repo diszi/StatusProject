@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StatusProject</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="btn_display">Display</string>
+
+
+    <string name="status1">Status1</string>
+    <string name="status2">Status2</string>
+    <string name="btn_status">Status</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
